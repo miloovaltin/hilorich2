@@ -1,0 +1,16 @@
+{
+"name": "hilorich2",
+"theme": "hilorich2",
+"version": "6.6.8",
+"description": "hilorich2 ทางเข้าเว็บบาคาร่าเว็บตรง ไม่ผ่านเอเย่นต์ รับเงินเครดิตฟรี",
+"keywords": [
+"hilorich2",
+"hilorich2 เครดิตฟรี",
+"hilorich2 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/hilorich2",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
